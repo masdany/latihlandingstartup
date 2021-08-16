@@ -2,9 +2,9 @@ body,
 html {
   width: 100%;
   height: 100%;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 
-  background: url(header.jpg) no-repeat center center fixed; 
+  background: url(img/header.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -12,10 +12,9 @@ html {
 }
 
 hr {
-  background-color:darkturquoise;
+  background-color: darkturquoise;
   border-width: 6px;
   max-width: 65px;
-  
 }
 
 h1 {
@@ -33,7 +32,6 @@ h1 {
   padding: 1rem 2rem;
 }
 
-.buffer{
+.buffer {
   height: 15rem;
-
 }
